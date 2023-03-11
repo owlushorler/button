@@ -1,0 +1,24 @@
+.head {
+    display: flex;
+    justify-content: space-between;
+    
+}
+.jumia-log {
+    width: 10px;
+}
+.search-log {
+    width: 20px;
+}
+.search {
+    background-color: orange;
+    color: white;
+}
+.act-log {
+    width: 15px;
+}
+.help-log {
+    width: 15px;
+}
+.cart-log {
+    width: 20px;
+}
